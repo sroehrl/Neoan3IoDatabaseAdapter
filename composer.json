@@ -1,7 +1,7 @@
 {
   "name": "neoan.io/legacy-db-adapter",
   "description": "neoan3/db adapter for neoanIo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "require": {
     "php": "~8.1",

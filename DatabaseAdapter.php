@@ -7,7 +7,7 @@ use Neoan\Database\Adaptor;
 use Neoan3\Apps\DbException;
 use Neoan3\Apps\DbOOP;
 
-class DatabaseAdaptor extends DbOOP implements Adaptor
+class DatabaseAdapter extends DbOOP implements \Neoan\Database\Adapter
 {
 
     /**
